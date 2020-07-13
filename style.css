@@ -1,0 +1,81 @@
+nav{
+    background-color: #141212;
+    border-bottom: 1px solid #916108;
+}
+.brownie{
+    color: #d38f12;
+    font-size: 55px;
+    font-weight: 400;
+}
+.the{
+    color: #916108;
+    font-size: 20px;
+    position: relative;
+    bottom: 15px;
+}
+#navbarNav a {
+    color: #916108;
+}
+section{
+    background-image: url("images/body-bg.png");
+}
+section h4{
+    color: #916108;
+}
+section h5{
+    color: #d38f12;
+}
+section p{
+    color:gray;
+    text-align: justify;
+}
+.blue-highlight{
+    color: #916108;
+   
+}
+.button{
+    color: white;
+    background-color:#916108 ;
+    border: none;
+    padding: 5px 28px;
+    border-radius: 7px;
+}
+.row{
+    position: relative;
+    left: 100px;
+}
+.row .all-image{
+    border-radius: 20px;
+    border: 1px solid #916108;
+    height: 20%;
+    width: 20%;
+    
+      
+}
+.row a:visited{
+    color: #ca929c;
+}
+.details{
+    margin-left: 90px;
+}
+.team{
+    color: #d38f12;
+}
+.row .bg-img{
+    background-image: url("images/round-rectangle.png");
+    width: 100%;
+}
+.section1{
+    margin-bottom: 120px;
+}
+
+.navbar .navbar-toggler{
+    background-color: #916108;
+}
+.carousel-caption{
+    text-align: justify;
+    position: relative;
+    top: 100px;
+    left: 40px;
+    font-weight: 500;
+}
