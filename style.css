@@ -1,3 +1,6 @@
+body{
+    overflow-x: hidden;
+}
 nav{
     background-color: #141212;
     border-bottom: 1px solid #916108;
@@ -60,8 +63,6 @@ section p{
     margin-bottom: 120px;
     
 }
-
-
 .navbar .navbar-toggler{
     background-color: #916108;
 }
