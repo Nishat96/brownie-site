@@ -40,41 +40,41 @@ section p{
     padding: 5px 28px;
     border-radius: 7px;
 }
-.row{
-    position: relative;
-    left: 100px;
-}
+
 .row img{
     border-radius: 20px;
-    border: 1px solid #916108;
-
-    
-      
+    border: 1px solid #916108;   
 }
 .row a:visited{
     color: #ca929c;
 }
-.details{
-    margin-left: 90px;
-}
+
 .team{
     color: #d38f12;
 }
-.row .bg-img{
-    background-image: url("images/round-rectangle.png");
-    width: 100%;
-}
+
 .section1{
     margin-bottom: 120px;
 }
+.section2{
+    margin-bottom: 120px;
+    
+}
+
 
 .navbar .navbar-toggler{
     background-color: #916108;
 }
-.carousel-caption{
-    text-align: justify;
+
+#about h6{
+    color: #916108;
+
+}
+#about .orange-line{
+    display:inline-block;
+    height: 1px;
+    width:200px;
+    background-color: #dba94d ;
     position: relative;
-    top: 100px;
-    left: 40px;
-    font-weight: 500;
+    left: 100px;
 }
