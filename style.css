@@ -1,5 +1,5 @@
 body{
-    overflow-x: hidden;
+
 }
 nav{
     background-color: #141212;
@@ -44,9 +44,14 @@ section p{
     border-radius: 7px;
 }
 
-.row img{
+.section1 img{
     border-radius: 20px;
     border: 1px solid #916108;   
+}
+.section2 img{
+    
+    border: 1px solid #916108;   
+
 }
 .row a:visited{
     color: #ca929c;
@@ -78,4 +83,31 @@ section p{
     background-color: #dba94d ;
     position: relative;
     left: 100px;
+}
+.section3-div1{
+    border: 1px solid #916108;
+     position: relative;
+     left: 30px;
+     border-radius: 30px;
+     width: 100%;
+     
+}
+.section3-div1 h4{
+    padding-top: 20px;
+    margin-bottom: 35px ;
+}
+.section3-div1 h6{
+    color: #916108;
+}
+
+.section3-div2{
+    position: relative;
+    left: 80px;
+}
+
+.section3-firstimg img{
+    margin-right: 25px;
+}
+.section2 h4, p{
+    text-align: right;
 }
